@@ -3,11 +3,11 @@ package com.advcalender.dragonslayer.advancealarm;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class alarmDashBoard extends AppCompatActivity {
+public class DashBoard extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_alarm_dash_board);
+        setContentView(R.layout.activity_dash_board);
     }
 }
