@@ -3,4 +3,8 @@
     <string name="startButton">start</string>
     <string name="stopButton">stop</string>
     <string name="resumeButton">resume</string>
+    <string name="calendarFetch">calendar</string>
+    <string name="checkNetwork">Check</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">not connected</string>
 </resources>
